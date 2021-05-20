@@ -19,6 +19,7 @@ public class Stock {
 	public static Map<String,Item> getAllItems()
 	{
 		//write the code to return the all items
+		System.out.println("inside the Map billing");
 		return null;
 	}
 		public static Item getItem(String itemName)
